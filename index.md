@@ -9,6 +9,6 @@ Visit my repository on GitHub, **user:** steelheart93
 
 ### contact, stivenmm1993@gmail.com, [Facebook of Developer](https://www.facebook.com/stiven.munozmurillo)
 
-![publicidad](publicidad.png)
+![publicidad](pendon.jpg)
 
 ```He usado Jekyll para lograr el estilo de esta página. Hay más temas disponibles en Settings/GitHub-Pages```
