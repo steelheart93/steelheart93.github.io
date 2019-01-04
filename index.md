@@ -12,4 +12,4 @@ Visit my repository on GitHub, **User:** steelheart93
 
 ![publicidad](pendon.jpg)
 
-```He usado Jekyll para lograr el estilo de esta página. Hay más temas disponibles en Settings/GitHub-Pages```
+```Copyright (c) 2019 Copyright Holder All Rights Reserved.```
