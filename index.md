@@ -12,4 +12,4 @@ Visit my repository on GitHub, **User:** steelheart93
 
 ![publicidad](pendon.jpg)
 
-```Copyright (c) 2019 Copyright Holder All Rights Reserved.```
+```Copyright (c) 2019 Stiven Muñoz Murillo, All Rights Reserved.```
