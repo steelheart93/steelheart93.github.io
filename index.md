@@ -2,7 +2,7 @@
 # Stiven Muñoz Murillo, developer
 
 ## Welcome to my presentation page on GitHub Pages
-Visit my repository on GitHub, **user:** steelheart93 
+Visit my repository on GitHub, **User:** steelheart93 
 
 ## Some more pages made by me
 * [WebCam to IFRAME](https://steelheart93.github.io/camara)
