@@ -1,4 +1,4 @@
-# Welcome to my presentation page on GitHub Pages
+# Welcome to my presentation page on GitHub
 Visit my repository on GitHub, **User:** steelheart93 
 
 ## Some more pages made by me
