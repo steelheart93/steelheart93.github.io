@@ -1,7 +1,4 @@
-
-# Stiven Muñoz Murillo, developer
-
-## Welcome to my presentation page on GitHub Pages
+# Welcome to my presentation page on GitHub Pages
 Visit my repository on GitHub, **User:** steelheart93 
 
 ## Some more pages made by me
@@ -11,5 +8,4 @@ Visit my repository on GitHub, **User:** steelheart93
 ### **Contact:** stivenmm1993@gmail.com, [Facebook of Developer](https://www.facebook.com/stiven.munozmurillo)
 
 ![publicidad](pendon.jpg)
-
 ```Copyright (c) 2019 Stiven Muñoz Murillo, All Rights Reserved.```
