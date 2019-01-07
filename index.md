@@ -2,6 +2,7 @@
 Visit my repository on GitHub, **User:** steelheart93 
 
 ## Some more pages made by me
+* [Reminder with LocalStorage](https://steelheart93.github.io/recordatorios)
 * [WebCam to IFRAME](https://steelheart93.github.io/camara)
 * [Wikiquote to IFRAME](https://steelheart93.github.io/wikiquote)
 
