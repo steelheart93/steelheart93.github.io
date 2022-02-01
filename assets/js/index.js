@@ -1,5 +1,8 @@
-window.dataLayer = window.dataLayer || [];
-function gtag() { dataLayer.push(arguments); }
-gtag('js', new Date());
+/**
+ * @author Stiven Muñoz Murillo
+ * @version 01/02/2022
+ */
 
-gtag('config', 'UA-24707561-56');
+var portfolio = {};
+
+var certificates = {};
