@@ -1,92 +1,107 @@
 [
     {
-        "name": "Zopp Web Page",
-        "image": "",
-        "description": "",
-        "link": "https://zopp.co/"
+        "name": "SS Elevator Website",
+        "image": "../assets/img/projects/ss-elevator.png",
+        "description": "Responsive web page made in WordPress for the client SS Elevator Design.",
+        "link": "https://www.sselevatordesign.com/",
+        "button": "Visit Website"
     },
     {
-        "name": "SS Elevator Web Page",
-        "image": "",
-        "description": "",
-        "link": "https://www.sselevatordesign.com/"
+        "name": "Craftop Website",
+        "image": "../assets/img/projects/craftop.png",
+        "description": "Multilanguage web page made in WordPress for the client Craftop.",
+        "link": "https://craftop.com/",
+        "button": "Visit Website"
     },
     {
-        "name": "Craftop Web Page",
-        "image": "",
-        "description": "",
-        "link": "https://craftop.com/"
-    },
-    {
-        "name": "Baus Web Page",
-        "image": "",
-        "description": "",
-        "link": "https://baus.co/"
+        "name": "Página Web de Baus",
+        "image": "../assets/img/projects/baus.png",
+        "description": "Página web de la constructora Baus hecha en WordPress.",
+        "link": "https://baus.co/",
+        "button": "Visitar Sitio Web"
     },
     {
         "name": "Página Web de Manizales Más",
-        "image": "",
-        "description": "",
-        "link": "https://manizalesmas.com.co/"
-    },
-    {
-        "name": "Página Web de Telecafé",
-        "image": "",
-        "description": "",
-        "link": "https://telecafe.gov.co/"
+        "image": "../assets/img/projects/manizales-mas.png",
+        "description": "Página web Multilenguaje de Manizales Más",
+        "link": "https://manizalesmas.com.co/",
+        "button": "Visitar Sitio Web"
     },
     {
         "name": "CoroApp-Clone",
         "image": "../assets/img/projects/coronapp.png",
         "description": "Cloning CoronApp with Angular and Google Charts.",
-        "link": "https://steelheart93.github.io/coronapp"
+        "link": "https://steelheart93.github.io/coronapp",
+        "button": "View Project"
     },
     {
         "name": "Wikiquote-Client",
         "image": "../assets/img/projects/wikiquote.png",
         "description": "This is a web page that consumes the wikiquote API and leaves it ready to be embedded as an iframe.",
-        "link": "https://steelheart93.github.io/wikiquote"
+        "link": "https://steelheart93.github.io/wikiquote",
+        "button": "View Project"
     },
     {
         "name": "FileAPI-base64",
-        "image": "../assets/img/projects/FileAPI-base64.png",
+        "image": "../assets/img/projects/file-api.png",
         "description": "I explore working with image files and their conversion to base64. Using the API for HTML5 files and the 'file' data type of the 'input' tag.",
-        "link": "https://steelheart93.github.io/FileAPI-base64"
+        "link": "https://steelheart93.github.io/FileAPI-base64",
+        "button": "View Project"
     },
     {
         "name": "Flask-Player",
         "image": "../assets/img/projects/flask-player.png",
         "description": "Music player made with web tools like Flash and JQuery, and that also consumes the API of bing images.",
-        "link": "https://github.com/steelheart93/flask-player"
+        "link": "https://github.com/steelheart93/flask-player",
+        "button": "View Project"
     },
     {
         "name": "Flask-Register",
         "image": "../assets/img/projects/flask-register.png",
         "description": "A CRUD without the U, made with Flask. Which includes the use of Radio Stations.",
-        "link": "https://github.com/steelheart93/flask-register"
+        "link": "https://github.com/steelheart93/flask-register",
+        "button": "View Project"
     },
     {
         "name": "Spotify-Client",
         "image": "../assets/img/projects/spotify-client.png",
         "description": "This is a project that consume the Spotify Web API to create a music web player.",
-        "link": "https://github.com/steelheart93/spotify"
+        "link": "https://github.com/steelheart93/spotify",
+        "button": "View Project"
+    },
+    {
+        "name": "Zopp Digital Website",
+        "image": "../assets/img/projects/zopp.png",
+        "description": "Zopp Digital website, a former employer.",
+        "link": "https://zopp.co/",
+        "button": "Visit Website"
+    },
+    {
+        "name": "Página Web de Telecafé",
+        "image": "../assets/img/projects/telecafe.png",
+        "description": "Página web de Telecafé hecha en WordPress.",
+        "link": "https://telecafe.gov.co/",
+        "button": "Ver Sitio Web"
     },
     {
         "name": "Markdown-Page",
         "image": "../assets/img/projects/sample-page.png ",
         "description": "It is a prototype of this website that I make available to all those who want to know more about my work.",
-        "link": "https://steelheart93.github.io/markdown-page"
+        "link": "https://steelheart93.github.io/markdown-page",
+        "button": "View Project"
     },
     {
         "name": "El blog de Stiven",
         "image": "../assets/img/projects/blog.png ",
         "description": "Mi blog de Auditoría Informática en WordPress.",
-        "link": "https://chaui201921701320133.wordpress.com"
+        "link": "https://chaui201921701320133.wordpress.com",
+        "button": "Visitar Blog"
     },
     {
         "name": "Florence-Chatbot",
         "image": "../assets/img/projects/chatbot.png",
         "description": "Resultado del Curso Creando Chatbots con Tecnología de IA  Sin experiencia en Programación.",
-        "link": "https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=128dd6cb-474c-44f8-ae83-1d3fc11b3e4b&serviceInstanceID=01a310e4-202a-4388-b73b-522815361803"
+        "link": "https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=128dd6cb-474c-44f8-ae83-1d3fc11b3e4b&serviceInstanceID=01a310e4-202a-4388-b73b-522815361803",
+        "button": "Ver Proyecto"
     }
 ]
